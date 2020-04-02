@@ -1,6 +1,6 @@
 # Ensemble Ranking
 
-This repository contains the MATLAB and Visual Basic (in Excel) implementations of the ensemble ranking Method proposed in "Ensemble Ranking: Aggregation of rankings produced by different multi-criteria decision-making methods, Omega 2020".
+This repository contains the MATLAB and Visual Basic (in Excel) implementations of the ensemble ranking method proposed in "Ensemble Ranking: Aggregation of rankings produced by different multi-criteria decision-making methods, Omega 2020".
 
 ## Getting Started
 
